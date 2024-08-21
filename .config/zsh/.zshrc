@@ -33,6 +33,7 @@ zstyle ':completion:*' menu no
 # Aliases
 alias ls='ls --color'
 alias c='clear'
+alias vim='nvim'
 
 source "/usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 source "/usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh"
