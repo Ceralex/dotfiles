@@ -34,6 +34,8 @@ zstyle ':completion:*' menu no
 alias ls='ls --color'
 alias c='clear'
 alias vim='nvim'
+alias neofetch='fastfetch'
+alias gsync='rclone sync /home/alessandro/ObsidianVault/ gdrive-personal:/Obsidian' # Sync local Obsidian Vault with remote Google Drive
 
 source "/usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 source "/usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh"
